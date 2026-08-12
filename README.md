@@ -1,3 +1,7 @@
-Link to the dashboard: https://www.novypro.com/project/customer-analysis-of-sprokcet-bike-power-bi
-![Cusotmer Demography](https://github.com/samrat-mitra-48/Power-BI-Dashboard-for-Leading-Bike-Company/assets/88646637/af0afbad-c2e5-415c-9900-508d1102f354)
-![Revenue Report](https://github.com/samrat-mitra-48/Power-BI-Dashboard-for-Leading-Bike-Company/assets/88646637/7a07801d-a5a5-48ac-bd74-d9c03b059ce6)
+# Bike Company Sales & Customer Analysis with Power BI 
+
+Cleaned and transformed customer and sales data using Power Query, including handling missing values.
+Created relationships between tables to build a connected data model for analysis.
+Developed DAX measures to calculate key metrics such as Total Revenue and Total Orders.
+Built an interactive dashboard with charts and filters to analyze revenue and customer trends across age groups, gender, states, industries, and brands.
+Used customer and sales analysis to identify key segments and trends for business decision-making.
